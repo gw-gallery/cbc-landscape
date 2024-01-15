@@ -1,3 +1,4 @@
 # cbc-landscape
 
-![alt text](cbc_landscape_gwtc3.pdf "Title")
+<embed src="cbc_landscape_gwtc3.pdf" width="500"
+ type="application/pdf">

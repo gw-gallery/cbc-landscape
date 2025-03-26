@@ -8,7 +8,7 @@ Plots illustrating the "landscape" of CBC detections through the GWTC-3 catalog,
 
 ### An "honest" GWTC-3
 
-![alt text](cbc_landscape_gwtc3_with_errors.png)
+![alt text](cbc_landscape_gwtc3_with_violinerrors.png)
 
 ### GWTC-2
 
